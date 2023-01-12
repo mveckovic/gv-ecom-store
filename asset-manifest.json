@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gv-ecom-store/static/css/main.3cc5cc17.css",
+    "main.js": "/gv-ecom-store/static/js/main.bf607878.js",
+    "static/media/rodnae-productions-8249863.jpg": "/gv-ecom-store/static/media/rodnae-productions-8249863.3aeac6fef839892b1791.jpg",
+    "static/media/elias-de-carvalho-1144834.jpg": "/gv-ecom-store/static/media/elias-de-carvalho-1144834.1a897fb46ac4071ae6d9.jpg",
+    "static/media/pratik-gupta-2942259.jpg": "/gv-ecom-store/static/media/pratik-gupta-2942259.2cc98b9149e1b30a66bd.jpg",
+    "static/media/elias-de-carvalho-1006994.jpg": "/gv-ecom-store/static/media/elias-de-carvalho-1006994.ff19b54f095ee70fc8a1.jpg",
+    "static/media/laudyer-batista-843077.jpg": "/gv-ecom-store/static/media/laudyer-batista-843077.02cbad21370a83dacee8.jpg",
+    "index.html": "/gv-ecom-store/index.html",
+    "main.3cc5cc17.css.map": "/gv-ecom-store/static/css/main.3cc5cc17.css.map",
+    "main.bf607878.js.map": "/gv-ecom-store/static/js/main.bf607878.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc5cc17.css",
+    "static/js/main.bf607878.js"
+  ]
+}
